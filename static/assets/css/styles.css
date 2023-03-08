@@ -1,0 +1,43 @@
+.company-logo {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+#brand-img {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 2rem;
+}
+
+#socials {
+  margin: auto;
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+footer {
+  position: relative;
+  bottom: 0%;
+}
+
+#footer {
+  position: fixed;
+  bottom: 0;
+  padding: 0;
+  margin: 0;
+  width: 100vw;
+}
+
+#header {
+  position: relative;
+}
+
+#generated {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+

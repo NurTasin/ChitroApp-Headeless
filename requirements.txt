@@ -1,0 +1,6 @@
+deep_translator==1.9.2
+Flask==2.0.1
+Flask_Cors==3.0.10
+mistune==2.0.4
+openai==0.26.4
+gunicorn
